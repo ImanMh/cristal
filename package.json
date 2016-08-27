@@ -1,0 +1,20 @@
+{
+  "name": "cristal",
+  "version": "0.0.0",
+  "description": " An easy to use environment for redux projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iman Mohamadi <Iman@jsDecorator.com> (http://jsdecorator.com)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-loader": "^6.2.5",
+    "webpack": "^1.13.2"
+  }
+}
